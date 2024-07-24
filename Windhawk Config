@@ -1,1 +1,23 @@
-# Download Windhawk from link below
+# Download Windhawk from link in readme
+# Install these 5 mods from explore tab :
+  - Taskbar clock customization
+  - Taskbar height and icon size
+  - Taskbar Lables for windows 11
+  - Windows 11 start menu styler
+  - Windows 11 Taskbar Styler
+# In each mod, go to details > advanced and copy paste following script in mod settings box of respective mods. Click load, then save
+
+## Taskbar clock customization : 
+{"ShowSeconds":0,"TimeFormat":"HH':'mm'","DateFormat":"ddd',' dd MMM yyyy","WeekdayFormat":"dddd","TopLine":"","BottomLine":"%date% | %time%","MiddleLine":"%weekday%","TooltipLine":"%web1_full%","Width":180,"Height":80,"TextSpacing":1,"WebContentsItems[0].Url":"https://feeds.bbci.co.uk/news/world/rss.xml","WebContentsItems[0].BlockStart":"<item>","WebContentsItems[0].Start":"<title><![CDATA[","WebContentsItems[0].End":"]]></title>","WebContentsItems[0].MaxLength":28,"WebContentsUpdateInterval":10,"TimeStyle.Visible":0,"TimeStyle.TextColor":"","TimeStyle.TextAlignment":"Center","TimeStyle.FontSize":0,"TimeStyle.FontFamily":"DaddyTimeMono Nerd Font","TimeStyle.FontWeight":"Thin","TimeStyle.FontStyle":"Normal","TimeStyle.FontStretch":"","TimeStyle.CharacterSpacing":0,"DateStyle.TextColor":"#cba6f7","DateStyle.TextAlignment":"Center","DateStyle.FontSize":0,"DateStyle.FontFamily":"DaddyTimeMono Nerd Font","DateStyle.FontWeight":"Thin","DateStyle.FontStyle":"","DateStyle.FontStretch":"","DateStyle.CharacterSpacing":0,"oldTaskbarOnWin11":0}
+
+##Taskbar height and icon size
+{"IconSize":14,"TaskbarHeight":36,"TaskbarButtonWidth":36}
+
+##Taskbar Lables for windows 11
+{"taskbarItemWidth":0,"minimumTaskbarItemWidth":0,"maximumTaskbarItemWidth":114,"runningIndicatorStyle":"fullWidth","progressIndicatorStyle":"fullWidth","fontSize":10,"leftAndRightPaddingSize":15,"spaceBetweenIconAndLabel":15,"labelForSingleItem":"%name%","labelForMultipleItems":"[%amount%] %name%"}
+
+##Windows 11 start menu styler
+{"theme":"SideBySide","controlStyles[0].target":"Windows.UI.Xaml.Controls.Grid#UndockedRoot","controlStyles[0].styles[0]":"Visibility=Visible","resourceVariables[0].variableKey":"","resourceVariables[0].value":"","controlStyles[0].styles[1]":"Width=348","controlStyles[0].styles[2]":"Transform3D:=<CompositeTransform3D TranslateX=\\\"178\\\" 
+
+##Windows 11 Taskbar Styler
+{"theme":"RosePine","controlStyles[0].target":"Taskbar.TaskListButton","controlStyles[0].styles[0]":"CornerRadius=20","resourceVariables[0].variableKey":"","resourceVariables[0].value":"","controlStyles[1].target":"SystemTray.TextIconContent > Grid#ContainerGrid > SystemTray.AdaptiveTextBlock#Base > 
