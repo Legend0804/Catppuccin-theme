@@ -11,6 +11,7 @@
 - Finally [Catppuccin theme and Icon pack By Niivu](https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390)
 - Font used is DaddyTimeMono Nerd Font (google it man!)
 - [Wallpapers](https://github.com/Legend0804/Wallpapers/tree/main/tropic_island)
+- You can contact me via [Reddit](https://www.reddit.com/r/desktops/comments/1e9eyki/catppuccin_theme/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 
 ### Special thanks to [Lunas-OS](https://github.com/lunar-os/windowsdesktop?tab=readme-ov-file) for Windhawk Config
