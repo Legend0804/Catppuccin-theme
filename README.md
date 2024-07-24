@@ -10,6 +10,7 @@
 - Firefox setup is [this](https://github.com/RemyIsCool/AnimatedFox) with Catppuccin theme form firefox store
 - Finally [Catppuccin theme and Icon pack By Niivu](https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390)
 - Font used is DaddyTimeMono Nerd Font (google it man!)
+- [Wallpapers](https://github.com/Legend0804/Wallpapers/tree/main/tropic_island)
 
 
 ### Special thanks to [Lunas-OS](https://github.com/lunar-os/windowsdesktop?tab=readme-ov-file) for Windhawk Config
